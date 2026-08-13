@@ -1,6 +1,6 @@
 /**
  * Adapter design pattern is a structural design pattern
- * where to incompatible interface work together
+ * where two incompatible interface work together
  * Work like as converter
  */
 public class Main {
